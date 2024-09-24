@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @berkayyan
+- 👀 I’m interested in Javascript  
+- 🌱 I’m currently learning nothing  
+- 📫 How to reach me you can't reach me
